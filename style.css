@@ -1,0 +1,16 @@
+body {
+  width: 650px;
+  margin: auto;
+  margin-top: 30px;
+  padding: auto;
+  text-align: center;
+  background-color: aqua;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+html {
+  background-color: aquamarine;
+}
+img {
+  height: 150px;
+}
